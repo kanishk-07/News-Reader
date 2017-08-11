@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/News-Reader.iml" filepath="$PROJECT_DIR$/News-Reader.iml" />
       <module fileurl="file://$PROJECT_DIR$/NewsReaderApp.iml" filepath="$PROJECT_DIR$/NewsReaderApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

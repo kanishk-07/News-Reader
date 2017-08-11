@@ -1,4 +1,4 @@
-package com.example.andrewdunn.newsreaderapp;
+package com.example.kanishk.newsreaderapp;
 
 import org.junit.Test;
 
